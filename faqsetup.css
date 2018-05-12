@@ -1,0 +1,38 @@
+.title{
+font-family: Trebuchet MS;
+color: #966561;
+font-size: 5vh;
+}
+
+.author{
+font-family: Trebuchet MS;
+color: #966561;
+font-size: 5vh; 
+}
+
+.backbutton {
+background-color: rgb(178, 255, 63);
+color: black;
+padding: 30px;
+border: none; 
+margin-top: 40px;
+margin-left: 150px;
+}
+
+.heading{
+font-family: Trebuchet MS;
+margin-left: 10px;
+}
+
+.heading2{
+font-family: Trebuchet MS;
+margin-left: 10px;
+}
+
+.p1{
+margin-left: 10px;
+}
+
+.p2{
+margin-left: 10px;
+}
