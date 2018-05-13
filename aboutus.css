@@ -4,7 +4,11 @@ color: #966561;
 font-size: 5vh;
 }
 
-
+.author{
+font-family: Trebuchet MS; 
+color: #966561; 
+font-size: 5vh;
+}
 
 .relax{
 color: rgb(131, 65, 224)
