@@ -11,7 +11,8 @@ font-size: 5vh;
 }
 
 form {
-    border: 3px solid rgb(255,255,255);
+    border: 3px solid;
+    border-color: rgb(255,255,255);
 }
 
 /* Full-width inputs */
