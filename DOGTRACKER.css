@@ -1,11 +1,4 @@
 
-.title{
-font-family: Trebuchet MS;
-color: #966561;
-font-size: 5vh;
-text-align: left;
-}
-
 .author{
 font-family: Trebuchet MS;
 color: #966561;
@@ -74,6 +67,7 @@ border: none;
 margin-top: 40px;
 margin-left: 540px;
 font-family: Trebuchet MS;
+align: center;
 }
 .dogstext{
 text-align: center;
