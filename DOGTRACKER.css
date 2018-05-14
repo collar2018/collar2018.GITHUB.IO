@@ -28,7 +28,6 @@ text-align: right;
  text-decoration: none;
  display: inline-block;
  font-size: 16px;
-
  border-color: #2053a0;
  margin-bottom: 30px;
  font-family: Trebuchet MS;
@@ -53,7 +52,8 @@ margin: 24px 0 12px 0;
 img.map {
 width:40%;
 border: 100%;
-
+margin-left: auto;
+margin-right: auto;
 }
 .container {
 padding: 20px;
