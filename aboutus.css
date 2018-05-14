@@ -1,21 +1,15 @@
-.title{ 
-font-family: Trebuchet MS; 
-color: #966561; 
-font-size: 5vh; 
-text-align: left;
-}
-
 .title{
 font-family: Trebuchet MS;
 color: #966561;
 font-size: 5vh;
-text align: left;
+margin-align: center;
 }
 
 .author{
 font-family: Trebuchet MS; 
 color: #966561; 
 font-size: 5vh;
+margin-align: center;
 }
 
 .relax{
