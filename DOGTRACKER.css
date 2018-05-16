@@ -49,15 +49,16 @@ font-size: 5vh;
  font-family: Trebuchet MS;
 }
 .imgcontainer {
+text-align: center;
 margin: 24px 0 12px 0;
 }
 img.map {
 width:40%;
 border: 100%;
-margin-left: 250px;
+margin-left: 350px;
 }
 .container {
-padding: 30px;
+padding: 20px;
 }
 .backbutton {
 background-color: rgb(178, 255, 63);
@@ -65,10 +66,10 @@ color: black;
 padding: 30px;
 border: none; 
 margin-top: 40px;
+margin-left: 540px;
 font-family: Trebuchet MS;
-
 }
 .dogstext{
-text-align: center;
+margin-left: 500px;
 font-family: Trebuchet MS;
 }
