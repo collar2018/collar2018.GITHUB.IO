@@ -54,10 +54,10 @@ margin: 24px 0 12px 0;
 img.map {
 width:40%;
 border: 100%;
-margin-right: 130px;
+margin-left: 250px;
 }
 .container {
-padding: 20px;
+padding: 30px;
 }
 .backbutton {
 background-color: rgb(178, 255, 63);
