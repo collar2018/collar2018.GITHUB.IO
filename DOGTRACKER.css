@@ -54,7 +54,6 @@ margin: 24px 0 12px 0;
 img.map {
 width:40%;
 border: 100%;
-margin-left:500px;
 }
 .container {
 padding: 20px;
@@ -64,7 +63,7 @@ background-color: rgb(178, 255, 63);
 color: black;
 padding: 30px;
 border: none; 
-margin-top: 40px;
+margin-top: 40vh;
 font-family: Trebuchet MS;
 }
 .dogstext{
